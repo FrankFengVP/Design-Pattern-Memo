@@ -12,6 +12,9 @@ namespace SampleRunner
         {
             //装饰模式 - 咖啡
             PatternStore.Decorator.Coffe_Sample.SampleUsage.Run();
+
+            //单例模式
+            PatternStore.Singleton.SingletonRunner.Run();
         }
     }
 }

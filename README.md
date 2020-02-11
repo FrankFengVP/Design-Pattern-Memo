@@ -1,2 +1,3 @@
-# Design-Pattern-Memo
-Design pattern Summary and Memo
+# 设计模式备忘录
+
+持续不断完善中, 尽情期待

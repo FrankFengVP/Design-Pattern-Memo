@@ -27,7 +27,7 @@
             this.BuildMemory(new KinstonMemory());
             this.BuildHardDisk(new SumsungHardDisk());
             this.BuildMonitor(new Aoc());
-            this.ComputerProduct.PCType = "Laptop";
+            this.ComputerProduct.PCType = "Work Station";
             return base.CreateComputer();
         }
     }

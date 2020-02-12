@@ -15,7 +15,7 @@ namespace PatternStore.Builder.Computer_Sample
             computer.Show();
 
             IPCManufacture lenovo = new Lenovo(new WorkStationBuilder());
-            var workStation = dell.CreateComputer();
+            var workStation = lenovo.CreateComputer();
             workStation.Show();
         }
     }

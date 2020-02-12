@@ -41,6 +41,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Builder\Computer Sample\Aoc.cs" />
+    <Compile Include="Builder\Computer Sample\BenQ.cs" />
+    <Compile Include="Builder\Computer Sample\Computer.cs" />
+    <Compile Include="Builder\Computer Sample\ComputerBulder.cs" />
+    <Compile Include="Builder\Computer Sample\ComputerSampleRunner.cs" />
+    <Compile Include="Builder\Computer Sample\Dell.cs" />
+    <Compile Include="Builder\Computer Sample\IComputer.cs" />
+    <Compile Include="Builder\Computer Sample\ICPU.cs" />
+    <Compile Include="Builder\Computer Sample\IHardDisk.cs" />
+    <Compile Include="Builder\Computer Sample\IMemory.cs" />
+    <Compile Include="Builder\Computer Sample\IMonitor.cs" />
+    <Compile Include="Builder\Computer Sample\IPCManufacture.cs" />
+    <Compile Include="Builder\Computer Sample\KinstonMemory.cs" />
+    <Compile Include="Builder\Computer Sample\LaptopBuilder.cs" />
+    <Compile Include="Builder\Computer Sample\Lenovo.cs" />
+    <Compile Include="Builder\Computer Sample\SumsungHardDisk.cs" />
+    <Compile Include="Builder\Computer Sample\SumsungMemory.cs" />
+    <Compile Include="Builder\Computer Sample\WestData.cs" />
+    <Compile Include="Builder\Computer Sample\WorkStationBuilder.cs" />
     <Compile Include="Decorator\Coffe Sample\Decorator.cs" />
     <Compile Include="Decorator\Coffe Sample\IDrink.cs" />
     <Compile Include="Decorator\Coffe Sample\MilkCover.cs" />

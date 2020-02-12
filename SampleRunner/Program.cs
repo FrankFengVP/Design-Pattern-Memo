@@ -15,6 +15,9 @@ namespace SampleRunner
 
             //单例模式
             PatternStore.Singleton.SingletonRunner.Run();
+
+            //建造者模式
+            PatternStore.Builder.Computer_Sample.ComputerSampleRunner.Run();
         }
     }
 }

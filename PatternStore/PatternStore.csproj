@@ -75,6 +75,7 @@
     <Folder Include="FactoryMethod\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Builder\说明.md" />
     <None Include="Decorator\总结.md" />
     <None Include="Singleton\说明.md" />
   </ItemGroup>
